@@ -1,0 +1,2 @@
+# GenshinCharacterSelector
+Genshin Character Selector
